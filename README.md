@@ -41,9 +41,6 @@ g++ weather_data.cpp -o weather_system -std=c++11
 Execution
 After successful compilation, run the program from the same terminal:
 
-On Windows: weather_system.exe
-
-On macOS or Linux: ./weather_system
 
 
 Usage
@@ -57,17 +54,17 @@ Weather Data Storage System
 5. Display data (Column-Major)
 6. Exit
 Enter your choice: 1
-Enter year: 2028
-Enter city: Bengaluru
-Enter temperature: 24.5
+Enter year: 2027
+Enter city: Jaipur
+Enter temperature: 27.5
 Record inserted successfully.
 
 
 Student Information :
 
-Name : Krish
-Roll No. : 2401350009
+Name : Prasun Debnath
+Roll No. : 2401360001
 University: K.R. Mangalam University
-Course: Btech CSE (FULL STACK DEVELOPMENT)
+Course: Btech CSE (UI/UX)
 Subject : Data Structure And Algorothms
 Course Code: ENCS205 / ENCA 201
